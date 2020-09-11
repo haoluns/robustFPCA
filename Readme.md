@@ -1,4 +1,4 @@
-Robust Regression-Based Functional Principal Component Analysis
+Robust Functional Principal Component Analysis Based on a New Regression Framework
 
 funs_robust.r
 - contains the source code for implementing the robust regression-based functional principal component analysis
